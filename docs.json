@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "willow",
-  "name": "Mint Starter Kit",
+  "name": "FNetic Cloud Documentation",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#1c58f0",
+    "light": "#3a6ef2",
+    "dark": "#1242bc"
   },
   "favicon": "/favicon.svg",
   "navigation": {
